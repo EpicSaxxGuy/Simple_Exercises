@@ -1,6 +1,6 @@
 
 #include <stdio.h>
-
+//It's a C program that calculates the sum of odd divisors of an inputted integer number.
 int main()
 {
     int num, oddSum = 0;  
