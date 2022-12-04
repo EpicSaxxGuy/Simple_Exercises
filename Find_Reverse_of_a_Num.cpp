@@ -1,7 +1,7 @@
 
 #include <iostream>  
 #include <cmath>
-
+//This C++ program reverses a number. For instance, if the number is 345, the program finds and prints its reverse as 543.
 using namespace std; 
 int reverse_it(int x, int d){  
     int reverse = 0;
