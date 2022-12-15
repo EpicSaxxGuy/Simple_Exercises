@@ -4,7 +4,8 @@
 
 int main(void){ 
   int size; 
-  printf("Enter the size of your array: "); 
+  printf("Enter the size of your array: ");  
+  scanf("%d", &size);
   int values[size]; 
   printf("Enter %d integers: ", size); 
   
